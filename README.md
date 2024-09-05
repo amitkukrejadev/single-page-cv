@@ -9,5 +9,5 @@ This project is focused on creating a single-page CV using semantic HTML. The go
 
 This repository contains the HTML file and associated resources for the single-page CV. 
 
-[Project URL](#)
+[Project URL](https://roadmap.sh/projects/single-page-cv)
 
