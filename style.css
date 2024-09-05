@@ -1,0 +1,65 @@
+/* General background color and global line-height reduction */
+* {
+    background-color: rgb(255, 248, 238);
+    line-height: 1.5; /* Apply a more readable global line-height */
+}
+
+/* Address formatting */
+address {
+    font-style: normal;
+    margin-bottom: 15px; /* Added margin to separate sections */
+}
+
+/* Tagline formatting */
+#Tagline {
+    font-size: 14px;
+    font-weight: bold;
+    color: #89c586;
+    font-family: 'Lucida Sans', 'Lucida Grande', 'Verdana', sans-serif;
+    margin-bottom: 20px; /* Spacing below the tagline */
+}
+
+/* General section title styling */
+.section-title {
+    color: #89c586;
+    font-weight: bold;
+    font-size: 20px; /* Adjusted for better hierarchy */
+    margin-bottom: 10px; /* Added margin to separate sections */
+}
+
+/* Specific line-height adjustment for education section */
+.section-title.edu {
+    line-height: 1.0; /* Fine-tuned line-height for the education section */
+}
+
+/* Subheading styling (for h3 inside sections) */
+.section-title2 {
+    font-size: 18px;
+    color: #4b8a62;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Styling for paragraphs inside sections */
+p {
+    font-size: 14px;
+    line-height: 1.5; /* Adequate line height for readability */
+    margin-bottom: 10px;
+}
+
+/* Span text styling (used for dates, etc.) */
+span {
+    display: block; /* Ensures each span item appears on a new line */
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+/* Social handles section formatting */
+#frontend-Social {
+    margin-bottom: 20px; /* Added spacing below the social media section */
+    padding: 10px;
+}
+
+
+
